@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\MT\\MaquinaTuring\\MaquinaTuring.csproj": {}
+    "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\Maquina-de-Turing-que-Divide-2-Binarios\\MaquinaTuring\\MaquinaTuring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\MT\\MaquinaTuring\\MaquinaTuring.csproj": {
+    "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\Maquina-de-Turing-que-Divide-2-Binarios\\MaquinaTuring\\MaquinaTuring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\MT\\MaquinaTuring\\MaquinaTuring.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\Maquina-de-Turing-que-Divide-2-Binarios\\MaquinaTuring\\MaquinaTuring.csproj",
         "projectName": "MaquinaTuring",
-        "projectPath": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\MT\\MaquinaTuring\\MaquinaTuring.csproj",
+        "projectPath": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\Maquina-de-Turing-que-Divide-2-Binarios\\MaquinaTuring\\MaquinaTuring.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\MT\\MaquinaTuring\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Documents\\CompetiveCode\\Lenguajes\\Maquina-de-Turing-que-Divide-2-Binarios\\MaquinaTuring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
